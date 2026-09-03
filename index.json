@@ -1,16 +1,1 @@
-{
-  "name": "Zangetsu BetaSeries",
-  "description": "BetaSeries provider for TV series metadata, seasons, and episodes.",
-  "sources": [
-    {
-      "id": "betaseries",
-      "name": "BetaSeries",
-      "version": "1.0.0",
-      "type": "movie",
-      "lang": "en",
-      "file": "betaseries.js",
-      "logo": "https://www.betaseries.com/favicon.ico",
-      "nsfw": false
-    }
-  ]
-}
+
